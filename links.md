@@ -16,3 +16,8 @@ permalink: LINKS/
 1. [An Overview of Computer Security](https://www.geeksforgeeks.org/computer-security-overview/) - A good article to help us learn the basics about computer security. It includes topic such as the types of computer security, types of cyber attack, and how to prevent it.
 2. [VI Editor Tutorial](https://www.guru99.com/the-vi-editor.html) - A quick and simple tutorial about how to use the vi editor (file editor) in Linux. This tutorial can help you finish few parts of the weekly assignment.
 3. [Protection in Operating System](https://www.javatpoint.com/protection-in-operating-system) - This article can help you understand about computer protection in an operating system. It talks about the definition, how it works, why you need it, and the authentication methods.   
+
+## WEEK 3
+1. [Basic of Basics C Programming](https://www.programiz.com/c-programming/examples/print-sentence) - Contains tutorial on how to make a basic "hello world" program in C, to help you learn C language and finish some assignments.
+2. [File system in operating system](https://www.geeksforgeeks.org/file-systems-in-operating-system/) - A good article that talks about file system in an operating system. It discusses topic such as the file system types, the advantage and disadvantage, and also file directories.
+3. [Linux File Sytem](https://tldp.org/LDP/intro-linux/html/sect_03_01.html) - In depth and detailed article about the file system in Linux OS.
