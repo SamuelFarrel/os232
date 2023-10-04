@@ -21,3 +21,7 @@ permalink: LINKS/
 1. [Basic of Basics C Programming](https://www.programiz.com/c-programming/examples/print-sentence) - Contains tutorial on how to make a basic "hello world" program in C, to help you learn C language and finish some assignments.
 2. [File system in operating system](https://www.geeksforgeeks.org/file-systems-in-operating-system/) - A good article that talks about file system in an operating system. It discusses topic such as the file system types, the advantage and disadvantage, and also file directories.
 3. [Linux File Sytem](https://tldp.org/LDP/intro-linux/html/sect_03_01.html) - In depth and detailed article about the file system in Linux OS.
+
+## WEEK 4
+1. [SCP Commands Guide](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/) - A Guide about SCP Commands in linux to transfer files and finish some part of the assignment.
+2. [Computer Addressing Modes](https://www.geeksforgeeks.org/addressing-modes/) - A good article that discuss about adressing system in computer. This article not only discuss about the general topics, but it also quite in depth about the adressing system. 
