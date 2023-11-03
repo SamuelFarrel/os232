@@ -30,3 +30,10 @@ permalink: LINKS/
 1. [What is Virtual Memory?](https://www.indeed.com/career-advice/career-development/virtual-memory#:~:text=Virtual%20memory%20is%20a%20method,or%20solid%2Dstate%20disk%20storage.) - A good article that explains about virtual memory and how virtual memory works. This article also give types and examples of virtual memory.
 2. [Allocation Methods in Memory Management](https://www.geeksforgeeks.org/partition-allocation-methods-in-memory-management/) - This article talks about different memory placement algorithm in operating system. 
 3. [For Loop in C](https://www.w3schools.com/c/c_for_loop.php) - A good article to help you understand for loop concept in C programming languagge. This article can help you finish a few part of this week assignment.
+
+## WEEK 6
+1. [Processes in Operating System](https://www.tutorialspoint.com/operating_system/os_processes.htm) - This article explains in depth about processes in operating system but still easy to understand. It discusses about the definition and concept, life cycle, PCB, and program.
+2. [Thread in Operating System](https://www.geeksforgeeks.org/thread-in-operating-system/) - A good article that explains the concept of thread in operating system. This article also talks about types of thread and their difference, and the difference between thread and process.
+3. [Concurrency in Operating System](https://www.javatpoint.com/concurrency-in-operating-system) - Brief explainful article that discusses about what's conccurency in operating system.
+4. [How to : Backup in VirtualBox](https://www.thetechedvocate.org/how-to-backup-and-move-virtualbox-machines/) - Article that guides you how to backup, move, and configure your VM in VirtualBox.
+5. [Encrypting in Linux](https://devconnected.com/how-to-encrypt-file-on-linux/) - A simple guide about how to encypt file in Linux, help you finish part of the weekly assignment.
