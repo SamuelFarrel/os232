@@ -5,7 +5,6 @@ permalink: LINKS/
 # LINKS
 
 ## WEEK 0
-
 1. [Introduction of Operating System](https://www.geeksforgeeks.org/introduction-of-operating-system-set-1/) - This is a good article for computer science students who just started learning about operating system.The article discusses about history, functionalities, and components of operating system.
 
 ## WEEK 1
@@ -29,7 +28,7 @@ permalink: LINKS/
 ## WEEK 5
 1. [What is Virtual Memory?](https://www.indeed.com/career-advice/career-development/virtual-memory#:~:text=Virtual%20memory%20is%20a%20method,or%20solid%2Dstate%20disk%20storage.) - A good article that explains about virtual memory and how virtual memory works. This article also give types and examples of virtual memory.
 2. [Allocation Methods in Memory Management](https://www.geeksforgeeks.org/partition-allocation-methods-in-memory-management/) - This article talks about different memory placement algorithm in operating system. 
-3. [For Loop in C](https://www.w3schools.com/c/c_for_loop.php) - A good article to help you understand for loop concept in C programming languagge. This article can help you finish a few part of this week assignment.
+3. [For Loop in C](https://www.w3schools.com/c/c_for_loop.php) - A good article to help you understand for loop concept in C programming language. This article can help you finish a few part of this week assignment.
 
 ## WEEK 6
 1. [Processes in Operating System](https://www.tutorialspoint.com/operating_system/os_processes.htm) - This article explains in depth about processes in operating system but still easy to understand. It discusses about the definition and concept, life cycle, PCB, and program.
@@ -37,3 +36,10 @@ permalink: LINKS/
 3. [Concurrency in Operating System](https://www.javatpoint.com/concurrency-in-operating-system) - Brief explainful article that discusses about what's conccurency in operating system.
 4. [How to : Backup in VirtualBox](https://www.thetechedvocate.org/how-to-backup-and-move-virtualbox-machines/) - Article that guides you how to backup, move, and configure your VM in VirtualBox.
 5. [Encrypting in Linux](https://devconnected.com/how-to-encrypt-file-on-linux/) - A simple guide about how to encypt file in Linux, help you finish part of the weekly assignment.
+
+## WEEK 7
+1. [Process Synchronization in Operating System](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) - A good article about synchronization in operating system. It talks about the introduction, race condition, critical section, and mutual exclusion of operating system.
+2. [Example(s) of Synchronization in Operating System](https://users.cs.duke.edu/~chase/systems/sync-examples.html) - This article gives some examples of synchronization such as process manager, EventPair, LPC, WorkCrew, Spinlocks, and many others.
+3. [Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) - This page helps you understand about the concept of Deadlock in operating system. It talks about the example, condition, algorithm, how to handle, prevention, detection, ignorance, and recovery of dreadlock.
+4. [How to Avoid Dreadlock](https://www.infoworld.com/article/2075692/avoid-synchronization-deadlocks.html) - A brief guide how to NOT get dreadlock, with examples.
+5. [How to Resize Image](https://www.wikihow.com/Resize-a-JPEG) - Simple tutorial about how to resize image, helps you finish some part of this week assignment CORRECTLY.
