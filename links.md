@@ -43,3 +43,10 @@ permalink: LINKS/
 3. [Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) - This page helps you understand about the concept of Deadlock in operating system. It talks about the example, condition, algorithm, how to handle, prevention, detection, ignorance, and recovery of dreadlock.
 4. [How to Avoid Dreadlock](https://www.infoworld.com/article/2075692/avoid-synchronization-deadlocks.html) - A brief guide how to NOT get dreadlock, with examples.
 5. [How to Resize Image](https://www.wikihow.com/Resize-a-JPEG) - Simple tutorial about how to resize image, helps you finish some part of this week assignment CORRECTLY.
+
+## WEEK 8
+1. [CPU Scheduling in Operating System](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) - A good article that discusses about CPU scheduling in OS. The article talks about the concept, criteria, multiple processor scheduling in OS, and thread scheduling.
+2. [CPU Scheduling in Operating System 2](https://www.guru99.com/cpu-scheduling-algorithms.html) - Another reliable and good source talking about the topic
+3. [Cleaning and Deleting in Linux](https://www.freecodecamp.org/news/how-to-delete-a-file-or-directory-in-linux/) - A good article that helps you understand deleting prompt in Linux for cleaning a directory
+4. [Linux from Scratch BOOK](https://www.linuxfromscratch.org/lfs/view/12.0/) - Book to guide your Linux from scratch
+5. [Video Version of the Guide](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) - A video version for Linux from scratch guide, helps you understand the steps even better
