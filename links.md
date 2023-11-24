@@ -50,3 +50,10 @@ permalink: LINKS/
 3. [Cleaning and Deleting in Linux](https://www.freecodecamp.org/news/how-to-delete-a-file-or-directory-in-linux/) - A good article that helps you understand deleting prompt in Linux for cleaning a directory
 4. [Linux from Scratch BOOK](https://www.linuxfromscratch.org/lfs/view/12.0/) - Book to guide your Linux from scratch
 5. [Video Version of the Guide](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) - A video version for Linux from scratch guide, helps you understand the steps even better
+
+## WEEK 9
+1. [Mass-Storage Structure in Operating System](https://www.javatpoint.com/mass-storage-structure-in-operating-systems) - A good article that talks about this week topic, mass storage in OS. The article discusses about every mass storage device in detail and give us the understanding about the difference of primary and secondary memory.
+2. [Mass-Storage Structure (2)](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/10_MassStorage.html) - Another good article for refrence that discusses about the topic in depth and conceptually.
+3. [How to: Chroot](https://www.howtogeek.com/441534/how-to-use-the-chroot-command-on-linux/) - Helps you to understand more about Chroot and how to use it in linux, also helps you finish some part of the Linux from scratch assignment.
+4. [Linux from Scratch Chapter 6-7](https://www.linuxfromscratch.org/lfs/view/12.0/chapter06/introduction.html) - Book to guide your Linux from scratch this week (Ch.6-7)
+5. [Video Guide for Chapter 6-7](https://www.youtube.com/watch?v=D_N1kQPsQEk&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=9) - A video version for Linux from scratch guide for chapter 6-7, helps you understand the steps even better
