@@ -57,3 +57,10 @@ permalink: LINKS/
 3. [How to: Chroot](https://www.howtogeek.com/441534/how-to-use-the-chroot-command-on-linux/) - Helps you to understand more about Chroot and how to use it in linux, also helps you finish some part of the Linux from scratch assignment.
 4. [Linux from Scratch Chapter 6-7](https://www.linuxfromscratch.org/lfs/view/12.0/chapter06/introduction.html) - Book to guide your Linux from scratch this week (Ch.6-7)
 5. [Video Guide for Chapter 6-7](https://www.youtube.com/watch?v=D_N1kQPsQEk&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=9) - A video version for Linux from scratch guide for chapter 6-7, helps you understand the steps even better
+
+## WEEK 10
+1. [Input/Output](https://en.wikipedia.org/wiki/Input/output) - Explains the basic definition of input and output for computer. Helps you to understand before going further about I/O
+2. [Embedded Systems - I/O Programming](https://www.tutorialspoint.com/embedded_systems/es_io_programming.htm) - A good article about the concept and fundamentals of I/O Programming
+3. [Multithreading with -jn in Linux](https://unix.stackexchange.com/questions/257403/what-does-make-jn-mean) - Helps you understand the '-jn' flag in linux, helps you finish part of LFS faster. 
+4. [Linux from Scratch Chapter 8](https://www.linuxfromscratch.org/lfs/view/12.0/chapter08/introduction.html) - Book to guide your Linux from scratch this week (Ch.8)
+5. [Video Guide for Chapter 8](https://www.youtube.com/watch?v=WXAV29qd6VI&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=10) - A video version for Linux from scratch guide for chapter 8, helps you understand the steps even better and avoid mistakes
